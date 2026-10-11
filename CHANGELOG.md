@@ -7,7 +7,7 @@
 ### Other
 
 - Make `cachebust` arg of `get_url` work with colocated asset `@/` path
-
+- Keep line breaks in image alt text as spaces instead of dropping them
 
 ## 0.23.6 (2026-09-12)
 
